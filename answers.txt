@@ -11,3 +11,7 @@ Answer: Data Science can be used in healthcare to analyze patient data to predic
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging is a secure choice that maintains the full history of your repository, whereas rebasing generates a linear history by relocating your feature branch to the top of the main branch.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: Data analysis
